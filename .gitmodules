@@ -1,0 +1,3 @@
+[submodule "Build_OpenStreetMap_Route_Finder/thirdparty/googletest"]
+	path = Build_OpenStreetMap_Route_Finder/thirdparty/googletest
+	url = https://github.com/google/googletest.git
