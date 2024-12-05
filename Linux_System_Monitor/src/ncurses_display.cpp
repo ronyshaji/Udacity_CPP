@@ -55,12 +55,12 @@ void NCursesDisplay::DisplaySystem(System& system, WINDOW* window) {
 void NCursesDisplay::DisplayProcesses(std::vector<Process>& processes,
                                       WINDOW* window, int n) {
   int row{0};
-  int const pid_column{2};
+  int const pid_column{2};    //Adjust the width of each column
   int const user_column{9};
-  int const cpu_column{16};
-  int const ram_column{26};
-  int const time_column{35};
-  int const command_column{46};
+  int const cpu_column{24};
+  int const ram_column{34};
+  int const time_column{43};
+  int const command_column{54};
   wattron(window, COLOR_PAIR(2));
   mvwprintw(window, ++row, pid_column, "PID");
   mvwprintw(window, row, user_column, "USER");
