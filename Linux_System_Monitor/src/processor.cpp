@@ -3,7 +3,7 @@
 
 #include <iostream>
 
-// TODO: Return the aggregate CPU utilization
+// Return the aggregate CPU utilization
 float Processor::Utilization() { 
     
     long curActive = LinuxParser::ActiveJiffies();
@@ -23,6 +23,5 @@ float Processor::Utilization() {
     
     return utilisation; }
     
-
     //return utilisation; 
 }
