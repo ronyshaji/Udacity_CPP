@@ -1,2 +1,0 @@
-/usr/bin/ar qc /home/going/Rony/Udacity/CppND-Route-Planning-Project/lib/libpugixml.a CMakeFiles/pugixml.dir/src/pugixml.cpp.o
-/usr/bin/ranlib /home/going/Rony/Udacity/CppND-Route-Planning-Project/lib/libpugixml.a
