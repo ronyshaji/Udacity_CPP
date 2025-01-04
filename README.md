@@ -10,11 +10,11 @@ This repository contains projects and notes completed as part of the Udacity C++
 	-	Format: PDF
 	-	Topics include: Advanced C++ concepts, object-oriented programming, memory management, and best practices.
 
-- **Project 1:**  [OpenStreetMap Route Planning](https://github.com/ronyshaji/Udacity_CPP/tree/main/Build_OpenStreetMap_Route_Finder)
+- **Project 1:**  [OpenStreetMap Route Planning](https://github.com/ronyshaji/Build_OpenStreetMap_Route_Finder)
 
     Implementation of a route planning tool using the A* search algorithm to find the shortest path between two points on a map.
 
-- **Project 2:** [Linux System Monitor](https://github.com/ronyshaji/Udacity_CPP/tree/main/Linux_System_Monitor)
+- **Project 2:** [Linux System Monitor](https://github.com/ronyshaji/Linux_System_Monitor)
 
     A terminal-based system monitor tool inspired by the Linux Task Manager, providing real-time insights into CPU, memory usage, and processes.
 
